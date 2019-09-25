@@ -1,4 +1,4 @@
-# hoppier
+# Hoppier
 Hoppier - coding Challenge
 Uses node version 12.10
 
